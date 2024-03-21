@@ -16,7 +16,7 @@
         return false;
       }
       if(!emailRegex.test(email)){
-        alert("Please enter a valid Email address");
+        console.log(enter a valid email address)
         document.getElementById("email").focus();
         return false;
       }
