@@ -134,5 +134,11 @@ audio{
         font-size:9px;
         height:13px;
      }
+.error{
+    color: red;
+    background-color: white;
+    text-align: left;
+}
+     
 
      
