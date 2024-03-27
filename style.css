@@ -128,6 +128,7 @@ audio{
      }
      .inputgrp.error input{
         border-color:red;
+         font-size:30px;
          background-color:red;
      }
      .inputgrp.error{
@@ -139,6 +140,7 @@ audio{
     color: red;
     background-color: white;
     text-align: left;
+    font-size:30px;
 }
      
 
